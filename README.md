@@ -1,5 +1,5 @@
-**📌 Lasso Regression – Employee Salary Prediction**
-**📖 Overview**
+**📌 LASSO EGRESSION - EMPLOYEE SALARY PREDICTION**
+**📖 OVERVIEW**
 
 This project applies Lasso Regression with Cross-Validation (LassoCV) to predict employee salaries based on multiple factors. The dataset includes various employee attributes such as experience, education, certifications, and soft skills.
 
@@ -16,7 +16,7 @@ Lasso Regression is ideal for this scenario because it performs both prediction 
 
 
 
-**📊 Dataset**
+**📊 DATASET**
 
 Features (X): experience, education_level, certifications, skills_score, projects_handled, leadership_score, communication_score, location_index, department_index
 
@@ -25,8 +25,8 @@ Target (y): salary_k (salary in thousands)
 
 
 
-**
-⚙️ Requirements**
+
+**⚙️ REQUIREMENTS**
 
 Make sure the following Python libraries are installed:
 
@@ -35,7 +35,7 @@ pip install pandas scikit-learn matplotlib
 
 
 
-**🚀 Key Steps**
+**🚀 KEY STEPS**
 
 Load and split data
 
@@ -74,7 +74,7 @@ Business insight: HR learns whether education, experience, or soft skills play t
 
 
 
-**🏢 Real-world Impact**
+**🏢 REAL - WORLD IMPACT**
 
 For HR teams:
 
